@@ -7,3 +7,4 @@
     - Ainoastaan `long long` on _varmasti_ 64-bittinen
   - Overflow bitshiftauksessa esim. `(1<<33)` pitäisi olla `(1LL<<33)`
  - Off-by-one-virhe
+ - Taulukon koko
