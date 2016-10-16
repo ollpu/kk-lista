@@ -8,3 +8,6 @@
   - Overflow bitshiftauksessa esim. `(1<<33)` pitäisi olla `(1LL<<33)`
  - Off-by-one-virhe
  - Taulukon koko
+ - Reunatapaukset
+  - Toimiiko koodi jos n=0 tai n=1?
+  - Jos syötteen jokainen arvo on pienin/suurin mahdollinen?
