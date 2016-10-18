@@ -1,5 +1,7 @@
 # KK-lista
 
+### Miksei koodi mene läpi?
+
  - Overflow
   - Riittääkö 32-bittinen luku varmasti? Entä riittääkö edes 64-bittinen?
     - 32-bit signed: 2.1 * 10^9
@@ -18,6 +20,14 @@
   - Voiko verkossa olla erillisiä solmuja?
  - Koodi
   - Onko koodiin unohtunut debug printtejä?
+
+
+### Yleisiä ratkaisutapoja ja tietorakenteita
+Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
+
+ - Segmenttipuu
+ - Binäärihaku
+ - Dynaaminen ohjelmointi
 
 
 [Tulostettava versio listasta](https://gitprint.com/ollpu/kk-lista/blob/master/lista.md)
