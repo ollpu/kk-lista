@@ -21,6 +21,10 @@
  - Koodi
   - Onko koodiin unohtunut debug printtejä?
     - Jos käyttää esim. `clog` tai `cerr` debug-tulosteeseen, niiden unohtuminen ei haittaa jos aika vaan riittää.
+ - TLE?
+  - Voiko koodi joutua loputtomaan silmukkaan?
+  - Voiko dynaamisen ohjelmoinnin tilan esittää eri muodossa?
+    - Saako jonkin tilan muuttujan johdettua jo tilassa olevista muuttujista?
 
 
 ### Yleisiä ratkaisutapoja ja tietorakenteita
@@ -32,6 +36,8 @@ Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
   - Dynaaminen ohjelmointi
   - Divide and Conquer
  - Ongelman ratkaisu käänteisessä järjestyksessä (lopusta alkuun)
-
+ - Brute force/Backtracking jos hakualue on tarpeeksi pieni
+ - Kaavan löytäminen arvoja laskemalla
+ - Ongelman esittäminen verkkona
 
 [Tulostettava versio listasta](https://gitprint.com/ollpu/kk-lista/blob/master/lista.md)
