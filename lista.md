@@ -27,8 +27,11 @@
 Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
 
  - Segmenttipuu
- - Binäärihaku
- - Dynaaminen ohjelmointi
+ - Binääri/ternäärihaku
+ - Ongelman pilkkominen pienempiin osiin
+  - Dynaaminen ohjelmointi
+  - Divide and Conquer
+ - Ongelman ratkaisu käänteisessä järjestyksessä (lopusta alkuun)
 
 
 [Tulostettava versio listasta](https://gitprint.com/ollpu/kk-lista/blob/master/lista.md)
