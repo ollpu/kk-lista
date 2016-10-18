@@ -39,5 +39,6 @@ Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
  - Brute force/Backtracking jos hakualue on tarpeeksi pieni
  - Kaavan löytäminen arvoja laskemalla
  - Ongelman esittäminen verkkona
+ - Ongelman esittäminen geometrisesti
 
 [Tulostettava versio listasta](https://gitprint.com/ollpu/kk-lista/blob/master/lista.md)
