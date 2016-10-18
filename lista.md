@@ -13,6 +13,8 @@
  - Reunatapaukset
   - Toimiiko koodi jos n=0 tai n=1?
   - Jos syötteen jokainen arvo on pienin/suurin mahdollinen?
+ - Verkot
+  - Onko verkko suunnattu vai ei
 
 
 
