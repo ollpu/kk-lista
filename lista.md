@@ -14,8 +14,10 @@
   - Toimiiko koodi jos n=0 tai n=1?
   - Jos syötteen jokainen arvo on pienin/suurin mahdollinen?
  - Verkot
-  - Onko verkko suunnattu vai ei
-
+  - Onko verkko suunnattu vai ei?
+  - Voiko verkossa olla erillisiä solmuja?
+ - Koodi
+  - Onko koodiin unohtunut debug printtejä?
 
 
 [Tulostettava versio listasta](https://gitprint.com/ollpu/kk-lista/blob/master/lista.md)
