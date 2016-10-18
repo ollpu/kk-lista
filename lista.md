@@ -20,6 +20,7 @@
   - Voiko verkossa olla erillisiä solmuja?
  - Koodi
   - Onko koodiin unohtunut debug printtejä?
+    - Jos käyttää esim. `clog` tai `cerr` debug-tulosteeseen, niiden unohtuminen ei haittaa jos aika vaan riittää.
 
 
 ### Yleisiä ratkaisutapoja ja tietorakenteita
