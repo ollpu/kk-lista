@@ -21,11 +21,11 @@
  - Koodi
   - Onko koodiin unohtunut debug printtejä?
     - Jos käyttää esim. `clog` tai `cerr` debug-tulosteeseen, niiden unohtuminen ei haittaa jos aika vaan riittää.
+  - Onko valitut "äärettömän suuret" vakiot oikeasti tarpeeksi suuria?
  - TLE?
   - Voiko koodi joutua loputtomaan silmukkaan?
   - Voiko dynaamisen ohjelmoinnin tilan esittää eri muodossa?
     - Saako jonkin tilan muuttujan johdettua jo tilassa olevista muuttujista?
-
 
 ### Yleisiä ratkaisutapoja ja tietorakenteita
 Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
