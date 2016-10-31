@@ -26,6 +26,10 @@
   - Voiko koodi joutua loputtomaan silmukkaan?
   - Voiko dynaamisen ohjelmoinnin tilan esittää eri muodossa?
     - Saako jonkin tilan muuttujan johdettua jo tilassa olevista muuttujista?
+ - Includet
+  - Onko kaikki käyttämäsi kirjastot varmasti sisällytetty koodissa?
+  - Koodi saattaa includen puuttuessa toimia paikallisesti, mutta ei välttämättä arviointijärjestelmässä.
+  - Käyttämällä `bits/stdc++` sisällytät kaikki standardikirjastot.
 
 ### Yleisiä ratkaisutapoja ja tietorakenteita
 Jos et keksi ratkaisua tehtävään, yritä soveltaa ongelmaa johonkin näistä:
